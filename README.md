@@ -17,10 +17,6 @@ Ce tableau de bord académique permet aux enseignants et administrateurs de suiv
 - **Interface responsive** avec design Bootstrap
 - **Gestion robuste des données** issues de fichiers Excel
 
-## Captures d'écran
-
-*[Insérer des captures d'écran ici]*
-
 ## Prérequis
 
 - Python 3.7+
